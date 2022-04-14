@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @malhta
 - 👀 I’m interested in em passar de ano
-- 🌱 
 - 💞️ I’m looking to collaborate on os professores e amigos 
 - 📫 How to reach me conversando
 
