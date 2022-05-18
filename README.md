@@ -1,5 +1,7 @@
 # hi guys👋
 
+ ![](https://pin.it/6MoKNRO)
+
 ## Sobre mim:
 * Me chamo tainá.
 * Tenho 15 anos. 
@@ -56,7 +58,7 @@
 * Jujutsu Kaisen/ Estou Vendo, ninguém vai morrer.
 
 ## Livros Preferidos:
-* Anne Franck.
+* Anne Frack.
 * É assim que acaba.
 
 ## Livros que pretendo ver:
