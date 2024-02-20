@@ -1,4 +1,8 @@
-# hi guys👋
+## Olá! Eu sou a Tainá Machado Leão
+-Atualmente sou Estudante do Coégio Técnico Industrial de Santa Maria.
+-Estou cursando o Técnino de Informática para Internet.
+-Já possuo contato com a programação e planejo nesse ano abranger mais os meus conhecimentos na área, para poder realizar projetos com mais expência.
+-Email: machadoleaot@gmail.com
 
 
 ## Sobre mim:✨✨
@@ -39,36 +43,7 @@
 * Pantera negra.
 * O Menino Do Pijama Listrado.
 * A Princesa e o Sapo.
-* Minha Mãe é Uma Peça 1, 2 e 3.
-* Escritores Da Liberdade. 
-
-## Series que eu adoro💖💖
-* Eu, a Patroa e as Crianças.
-* Um Maluco no Pedaço. 
-* Brooklyn Nine-Nine.
-
-## Animes que eu Pretendo Ver/ Terminei/ Estou Vendo:
-* Naruto/ Terminei, 500 episódios pra conta.
-* Heartstopper.
-* Bersek/ Pretendo Ver, estou com um leve medo de ver falaram sobre ele, nada positivo.
-* One Pierce/ Estou vendo, help-me muito grande.
-* Demon Slayer: Kimetsu no Yaiba/ Terminei, Kyojuro Rengoku- **O melhor Hashira das Chamas**.
-* Attack on Titan/ Pretendo ver, muitas mortes **Mikasa Tem Que Casar comigo**.
-* Jujutsu Kaisen/ Estou Vendo, ninguém vai morrer.
-
-## Livros Preferido📚📚
-* Anne Frack.
-* É assim que acaba.
-
-## Livros que pretendo ver📖📖
-* Vermelho, Branco E Sangue Azul.
-* O ódio que você semeia.
-* A Princesa Salva A Si Mesma Neste Livro.
-* Observaçôes sobre um planeta nervoso.
-* A Menina Submersa.
-
-## Meus contatos📱📱
-* Email: machadoleaot@gmail.com
+* Minha Mãe é Uma Pe
 * Instagram: machadoleaot
 
 ![](https://images.app.goo.gl/uDsnpFBmmhYymH3S8)
