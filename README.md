@@ -1,5 +1,9 @@
 ## Olá! Eu sou a Tainá Machado Leão
 
+- Atualmente sou Estudante do Coégio Técnico Industrial de Santa Maria.
+- Estou cursando o Técnino de Informática para Internet.
+- Já possuo contato com a programação e planejo nesse ano abranger mais os meus conhecimentos na área, para poder realizar projetos com mais expência.
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/machadoleaot@gmail.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://instagram.com/machadoleaot@gmail.com)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/machadoleaot)
@@ -15,6 +19,4 @@
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
-- Atualmente sou Estudante do Coégio Técnico Industrial de Santa Maria.
-- Estou cursando o Técnino de Informática para Internet.
-- Já possuo contato com a programação e planejo nesse ano abranger mais os meus conhecimentos na área, para poder realizar projetos com mais expência.
+
