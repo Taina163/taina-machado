@@ -8,7 +8,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/machadoleaot@gmail.com)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/machadoleaot)
 
-
+![Taina163 GitHub stats](https://github-readme-stats.vercel.app/api?username=Taina163&show_icons=true&theme=draculara)
 
 
 
